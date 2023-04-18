@@ -2,7 +2,7 @@
 
 Dataset Description: This data set provides supply chain health commodity shipment and pricing data.
 
-## Following are steps for Data Analysis and Modeling
+## Following are steps for Data Analysis
 
 * Import Packages
 * Import CSV file
